@@ -10,7 +10,7 @@ colorama==0.4.3
 #command-not-found==0.3
 cryptography==2.8
 #cupshelpers==1.0
-dbus-python==1.2.16
+#dbus-python==1.2.16
 #defer==1.0.6
 distlib==0.3.2
 distro==1.4.0
@@ -51,7 +51,7 @@ Pillow==7.0.0
 platformdirs==2.2.0
 protobuf==3.6.1
 pycairo==1.16.2
-pycups==1.9.73
+#pycups==1.9.73
 #PyGObject==3.36.0
 PyJWT==1.7.1
 pymacaroons==0.13.0
